@@ -27,9 +27,24 @@ EXAMINER aims to simplify network reconnaissance and port scanning by providing 
 ## Main Menu
 
 ```text
-[1] Port Scanning
-[2] Information Gathering
-[0] Exit
+_____ __  __    _     __  __  ___  _   _  _____  ____
+| ____|\ \/ /   / \   |  \/  ||_ _|| \ | || ____||  _ \
+|  _|   \  /   / _ \  | |\/| | | | |  \| ||  _|  | |_) |
+| |___  /  \  / ___ \ | |  | | | | | |\  || |___ |  _ <
+|_____/_/\_\/_/   \_\|_|  |_||___||_| \_||_____||_| \_\
+
+              Advanced Reconnaissance Tool
+               Developed by: Ahmed Ekramy
+                      Version 1.0
+
+────────────────────────────────────────────────────── Main Menu ───────────────────────────────────────────────────────
+  [1] Port Scanning
+  [2] Information Gathering
+  [3] Vulnerability Assessment
+  [4] Network Discovery
+  [0] Exit
+
+Select an option:
 ```
 
 ## Technology Stack
@@ -145,7 +160,9 @@ EXAMINER/
 │
 ├── modules/
 │   ├── information_gathering/
-│   └── port_scanner/
+│   ├── port_scanner/
+│   ├── vulnerability_assessment/
+│   └── network_discovery/
 │
 ├── utils/
 │
