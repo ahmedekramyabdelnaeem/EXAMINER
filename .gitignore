@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+.venv/
+venv/
+logs/
+config/settings.json.bak
+config/settings.json.tmp

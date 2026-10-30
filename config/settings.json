@@ -1,0 +1,10 @@
+{
+    "default_timeout": 3.0,
+    "default_speed": "normal",
+    "preferred_engine": "auto",
+    "nmap_path": "",
+    "output_dir": "",
+    "colors_enabled": true,
+    "logging_enabled": true,
+    "log_level": "INFO"
+}
